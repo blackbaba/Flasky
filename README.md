@@ -1,3 +1,8 @@
-# Welcome to Microblog!
+# FLASK APP - Twitter Clone
 
-This is an example application featured in my [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). See the tutorial for instructions on how to work with it.
+* Clone the repository onto your computer. Make sure you have Python3 installed before proceeding.
+* Create and activate a python virtual environment
+* Run `pip install -r requirements.txt`
+* Run `flask run`
+
+Enjoy!
